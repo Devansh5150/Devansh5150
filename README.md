@@ -1,44 +1,67 @@
-<h1 align="center">Hi 👋, I'm Devansh Datta</h1>
-<h3 align="center">AI Builder | Web Developer | Future Founder 🚀</h3>
+<h1 align="center">Devansh Datta</h1>
+<h3 align="center">AI Builder • Full Stack Developer • Problem Solver 🚀</h3>
+
+<p align="center">
+  🌐 <a href="https://devanshdattafolio.vercel.app/">Portfolio</a> •
+  💻 <a href="https://github.com/Devansh5150">GitHub</a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE Student (2nd Year)
-- 💻 Building AI tools like **Madat (Shopify AI Assistant)**
-- 🚚 Working on **Last Mile Delivery Platform**
-- 🎮 Exploring **Controller-based Car Simulation**
-- 📚 Learning: React, System Design, AI/ML
+I build real-world systems that solve actual problems — not just projects.
+
+- 🎓 B.Tech CSE (2nd Year)
+- ⚙️ Focus: AI Systems, Backend Architecture, Scalable Platforms
+- 🚀 Building products in AI, logistics, and automation
+- 🧩 Interested in solving problems in Tier 2/3 India
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 I Build Systems That Solve Real Problems
 
-- 🧠 Madat – AI for Shopify Store Automation  
-- 🚚 Smart Delivery Platform  
-- 🎮 EvoFox Car Control Simulator
-- 🎓 AttainHub
-- 🚗 Torq - AI Emergency Vehicle Support
-- 🧘 Tatvam - LLM Contextual Mapping Engine
-- 👥 ConnectUp (Mentor-Mentee Platform)
+### 🤝 Mentor-Mentee Platform
+A structured mentorship and progress tracking system designed to connect mentors with mentees and improve learning outcomes.
+
+- 🔗 Smart mentor-mentee matching  
+- 📊 Progress tracking & structured workflows  
+- 👥 Facilitated 200+ mentor-mentee relationships  
+
+**Tech:** React Native • Supabase • UI/UX Design  
+
+---
+
+### 🚗 Torq — AI Emergency Vehicle Support
+On-demand roadside assistance platform connecting stranded drivers with nearby service providers.
+
+- 📍 Real-time tracking & intelligent service matching  
+- 👥 Served 500+ users  
+- 🤖 Integrated chatbot + backend system  
+
+**Tech:** React Native • Node.js • Firebase • PostgreSQL • OpenAI API  
+
+---
+
+### 🧠 Tatvam — LLM Contextual Mapping Engine
+AI-powered platform connecting ancient philosophical knowledge with modern AI using contextual intelligence.
+
+- 🔗 RAG pipelines for deep contextual understanding  
+- 🛡️ Ethical AI guardrails implementation  
+- ☁️ Deployed using AWS serverless architecture  
+
+**Tech:** Next.js • Python • LangChain • Supabase • AWS  
+
 ---
 
 ## ⚙️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-
-### Web
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+**Languages:** Python • JavaScript • C  
+**Frontend:** React • Next.js • HTML • CSS  
+**Backend:** Node.js • Express.js  
+**Databases:** MongoDB • PostgreSQL • Supabase  
+**AI/ML:** OpenCV • DeepFace • LangChain  
+**Tools:** Git • GitHub • Postman • Firebase  
 
 ---
 
@@ -50,10 +73,20 @@
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 What Drives Me
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh5150&theme=react-dark)
+I don’t just build projects — I build systems that:
+- Solve real-world inefficiencies  
+- Scale beyond demos  
+- Have the potential to turn into startups  
 
 ---
 
-⭐ Building. Learning. Growing.
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: https://devanshdattafolio.vercel.app/
+- 💻 GitHub: https://github.com/Devansh5150
+
+---
+
+⭐ Always building. Always learning. Always improving.

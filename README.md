@@ -17,8 +17,11 @@
 
 - 🧠 Madat – AI for Shopify Store Automation  
 - 🚚 Smart Delivery Platform  
-- 🎮 EvoFox Car Control Simulator  
-
+- 🎮 EvoFox Car Control Simulator
+- 🎓 AttainHub
+- 🚗 Torq - AI Emergency Vehicle Support
+- 🧘 Tatvam - LLM Contextual Mapping Engine
+- 👥 ConnectUp (Mentor-Mentee Platform)
 ---
 
 ## ⚙️ Tech Stack

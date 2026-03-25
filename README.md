@@ -48,15 +48,21 @@
 🧠 **Core:** Matching • Progress Tracking • Structured Growth
 
 ---
+### 🧠 Tatvam — AI Reflection & Context Engine  
+> A calm, AI-powered space for reflection inspired by Indian philosophy  
 
-### 🚗 Torq — AI Emergency Vehicle Support
+🌐 **Live:** https://tatvambot.vercel.app/
 
-> Real-time roadside assistance platform powered by intelligent matching
+⚡ **What it does:**
+- 🧘 Reflective AI conversations (not chatbot noise)  
+- 📖 Contextual insights from Gita, Ramayana, Mahabharata  
+- 🔊 Designed for mindful, low-noise interaction  
+- 🎯 Focus on depth, not distraction  
 
-⚡ **Impact:** 500+ users served
-🧠 **Core:** AI + Logistics + Real-time Infrastructure
+🧠 **Core Idea:**  
+Bringing ancient wisdom into modern AI through **context, calm UX, and meaningful interaction**
 
----
+⚙️ **Tech:** Next.js • Python • LangChain • Supabase • AI APIs  
 
 ### 🧠 Tatvam — LLM Contextual Mapping Engine
 

@@ -86,10 +86,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh5150&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Devansh5150&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh5150&theme=react-dark&hide_border=true" />
 </p>
 
 ---
+
+## ⚙️ MOST USED LANGUAGES
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh5150&layout=donut&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🚧 CURRENTLY BUILDING
 

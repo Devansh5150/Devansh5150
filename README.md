@@ -29,7 +29,7 @@
 
 * 🎓 B.Tech CSE (2nd Year)
 * ⚙️ Focus: AI Systems • Backend Architecture • Scalable Platforms • Website Development
-* 🚀 Building in AI, logistics, and automation
+* 🚀 Building in AI, Web Development and Others
 * 🧩 Solving real problems in Tier 2/3 India
 
 ---

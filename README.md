@@ -93,12 +93,6 @@ Bringing ancient wisdom into modern AI through **context, calm UX, and meaningfu
 
 ---
 
-## ⚙️ MOST USED LANGUAGES
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh5150&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🚧 CURRENTLY BUILDING
 
 * 🧠 Scaling AI-driven platforms

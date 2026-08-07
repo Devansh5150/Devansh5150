@@ -89,3 +89,9 @@ Current Project:
 ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
 
 </p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devansh5150/Devansh5150/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>

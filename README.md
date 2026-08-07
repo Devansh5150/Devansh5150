@@ -1,129 +1,91 @@
-  <h1 align="center">⚡ Devansh Datta</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI+Builder;Full+Stack+Developer;System+Thinker;Building+Real+World+Tech;Future+Startup+Founder" />
-</p>
+# Devansh Datta
 
-<p align="center">
-  🚀 <a href="https://devanshdattafolio.vercel.app/"><b>Portfolio</b></a> •
-  💻 <a href="https://github.com/Devansh5150"><b>GitHub</b></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Founder+of+Tatvam;Building+NED;Full+Stack+Developer;Always+Learning+Something+New" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-00F7FF?style=for-the-badge&logo=brain&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge&logo=react&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Startup%20Mindset-00F7FF?style=for-the-badge&logo=rocket&logoColor=black"/>
-</p>
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
+# 👋 About Me
 
----
-
-## 🧠 SYSTEM THINKER
-
-```diff
-+ I don’t build projects. I build systems that solve real-world problems.
+```yaml
+Name: Devansh Datta
+Role: AI Engineer
+Education: B.Tech AI/ML
+Focus:
+  - Artificial Intelligence
+  - AI Agents
+  - Full Stack Development
+  - Automation
+Current Project:
+  - NED
+  - Tatvam
 ```
 
-* 🎓 B.Tech CSE (2nd Year)
-* ⚙️ Focus: AI Systems • Backend Architecture • Scalable Platforms • Website Development
-* 🚀 Building in AI, Web Development and Others
-* 🧩 Solving real problems in Tier 2/3 India
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=2"/>
-
----
-
-## 🚀 CORE SYSTEMS
-
-### 🤝 Mentor-Mentee Platform
-
-> A structured mentorship engine designed to scale learning and relationships
-
-⚡ **Impact:** 200+ mentor-mentee connections
-🧠 **Core:** Matching • Progress Tracking • Structured Growth
-
----
-### 🧠 Tatvam — AI Reflection & Context Engine  
-> A calm, AI-powered space for reflection inspired by Indian philosophy  
-
-🌐 **Live:** https://tatvambot.vercel.app/
-
-⚡ **What it does:**
-- 🧘 Reflective AI conversations (not chatbot noise)  
-- 📖 Contextual insights from Gita, Ramayana, Mahabharata  
-- 🔊 Designed for mindful, low-noise interaction  
-- 🎯 Focus on depth, not distraction  
-
-🧠 **Core Idea:**  
-Bringing ancient wisdom into modern AI through **context, calm UX, and meaningful interaction**
-
-⚙️ **Tech:** Next.js • Python • LangChain • Supabase • AI APIs  
-
-### 🧠 Tatvam — LLM Contextual Mapping Engine
-
-> AI system connecting ancient knowledge with modern intelligence
-
-⚡ **Impact:** RAG-based contextual reasoning system
-🧠 **Core:** LLM • Knowledge Graphs • Ethical AI
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
-
----
-
-## ⚙️ TECH STACK
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,react,nextjs,nodejs,express,mongodb,postgres,supabase,aws,git,github" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,html,css,tailwind,mongodb,firebase,supabase,git,github,docker,linux,vscode,figma,blender&perline=10" />
+
 </p>
 
 ---
 
-## 📊 SYSTEM METRICS
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devansh5150&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🚧 CURRENTLY BUILDING
+## 🌟 Featured Projects
 
-* 🧠 Scaling AI-driven platforms
-* 🚚 Optimizing real-time logistics systems
-* ⚡ Exploring automation & system design
-
----
-
-## 🧬 PHILOSOPHY
-
-> Build things that matter.
-> Scale things that work.
-> Eliminate what doesn’t.
+| Project | Description |
+|---------|-------------|
+| NED | Personal AI Operating System |
+| Tatvam | AI-powered spiritual guidance platform |
+| Portfolio | Personal developer portfolio |
 
 ---
 
-## 🎥 LIVE DEMOS & CASE STUDIES
-
-👉 Coming soon — real product demos & deep dives
-
----
-
-## 📫 CONNECT
+## 🌐 Connect With Me
 
 <p align="center">
-  🌐 <a href="https://devanshdattafolio.vercel.app/">Portfolio</a> •
-  💻 <a href="https://github.com/Devansh5150">GitHub</a>
+
+<a href="https://www.linkedin.com/in/devansh-datta-941094321/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/Devansh5150)">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="[https://YOUR_PORTFOLIO](https://devanshdattafolio.vercel.app/)">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  ⚡ Always building. Always evolving.
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+
 </p>

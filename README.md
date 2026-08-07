@@ -6,19 +6,22 @@
 
 # 👋 About Me
 
-```yaml
-Name: Devansh Datta
-Role: AI Engineer
-Education: B.Tech AI/ML
-Focus:
-  - Artificial Intelligence
-  - AI Agents
-  - Full Stack Development
-  - Automation
-Current Project:
-  - NED
-  - Tatvam
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────╮
+│ > whoami                                    │
+├──────────────────────────────────────────────┤
+│ Name      : Devansh Datta                   │
+│ Role      : AI Engineer                     │
+│ Founder   : Tatvam                          │
+│ Building  : NED                             │
+│ Focus     : AI Agents • Full Stack          │
+│ Location  : India                           │
+╰──────────────────────────────────────────────╯
 ```
+
+</div>
 
 ---
 

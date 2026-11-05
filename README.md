@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/desi-hacker-banner.png" alt="Devansh Datta — Royal Rajasthani miniature art meets hacker terminal" width="100%" />
+  <img src="./desi-hacker-banner.png" alt="Devansh Datta — Royal Rajasthani miniature art meets hacker terminal" width="100%" />
 </div><div align="center">
   <h3>॥ ज्ञानं परमं बलम् ॥</h3>
   <p><strong>AI ENGINEER · BUILDER · FOUNDER</strong></p>
